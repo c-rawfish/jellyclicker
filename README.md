@@ -13,5 +13,5 @@ Highly-customizable external autoclicker designed for Minecraft 1.8.9 and 1.7.10
 - Micro Randomizations (deviations of up to 100ms between clicks)
 
 # Setup
-Navigate to the Releases tab and download the latest version of jellyclicker.
-Alternatively, download the Visual Studio Project and compile as Release/x86
+Download the Visual Studio Project and compile as Release/x86
+You can also go to https://jellyfish.baby/clicker and download the compiled binary
